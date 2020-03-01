@@ -1,0 +1,3 @@
+﻿  test4.c
+test4.obj : error LNK2005: _main 已经在 test3.obj 中定义
+C:\Users\zhuran\Desktop\202001\test3\Debug\test3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
